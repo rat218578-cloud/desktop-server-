@@ -1,0 +1,2493 @@
+BTC	Bitcoin
+ETH	Ethereum
+USDT	Tether USDt
+BNB	BNB
+XRP	XRP
+USDC	USDC
+SOL	Solana
+TRX	TRON
+ZEC	Zcash
+HYPE	Hyperliquid
+DOGE	Dogecoin
+LINK	Chainlink
+XMR	Monero
+ADA	Cardano
+LEO	UNUS SED LEO
+XLM	Stellar
+NEAR	NEAR Protocol
+BCH	Bitcoin Cash
+UNI	Uniswap
+LTC	Litecoin
+CC	Canton
+USDE	Ethena USDe
+AVAX	Avalanche
+SUI	Sui
+HBAR	Hedera
+DAI	Dai
+USD1	World Liberty Financial USD
+GRAM	Gram (prev. Toncoin)
+QNT	Quant
+TAO	Bittensor
+SHIB	Shiba Inu
+CRO	Cronos
+USDG	Global Dollar
+XAUT	Tether Gold
+PYUSD	PayPal USD
+ENA	Ethena
+PUMP	Pump.fun
+OKB	OKB
+RLUSD	Ripple USD
+AAVE	Aave
+ONDO	Ondo
+M	MemeCore
+MNT	Mantle
+ASTER	Aster
+DOT	Polkadot
+WLD	Worldcoin
+ICP	Internet Computer
+SKY	Sky
+PAXG	PAX Gold
+PEPE	Pepe
+WLFI	World Liberty Financial
+USDD	USDD
+U	United Stables
+ETC	Ethereum Classic
+BGB	Bitget Token
+ARB	Arbitrum
+VVV	Venice Token
+MORPHO	Morpho
+POL	Polygon (prev. MATIC)
+KAS	Kaspa
+GT	GateToken
+ALGO	Algorand
+JUP	Jupiter
+JST	JUST
+PI	PI
+KCS	KuCoin Token
+RENDER	Render
+LIT	Lighter
+ATOM	Cosmos
+FIL	Filecoin
+CAKE	PancakeSwap
+AERO	Aerodrome Finance
+DASH	Dash
+VET	VeChain
+STABLE	Stable
+ETHFI	ether.fi
+INJ	Injective
+XDC	XDC Network
+APT	Aptos
+ZRO	LayerZero
+FLR	FLARE
+PENGU	Pudgy Penguins
+NIGHT	Midnight
+STX	Stacks
+CRV	Curve DAO Token
+PYTH	Pyth Network
+TRUMP	OFFICIAL TRUMP
+SEI	Sei
+RAY	Raydium
+NEXO	Nexo
+VIRTUAL	Virtuals Protocol
+FET	Artificial Superintelligence Alliance
+BIANRENSHENG	Bi An Ren Sheng
+TUSD	TrueUSD
+EURC	EURC
+XPL	Plasma
+PIEVERSE	Pieverse
+SPX	SPX6900
+TIA	Celestia
+PENDLE	Pendle
+FF	Falcon Finance
+BSV	Bitcoin SV
+LDO	Lido DAO
+BTT	BitTorrent-New
+PONS	Pons
+KITE	Kite
+XTZ	Tezos
+BONK	Bonk
+IMX	Immutable
+SUN	Sun (New)
+MON	Monad
+DCR	Decred
+FDUSD	First Digital USD
+SOON	SOON
+GRT	The Graph
+GNO	Gnosis
+STRK	Starknet
+OP	Optimism
+ENS	Ethereum Name Service
+LUNC	Terra Classic
+CFX	Conflux
+JTO	Jito
+AR	Arweave
+SYRUP	Maple Finance
+FLOKI	FLOKI
+RUNE	THORChain
+ZBCN	Zebec Network
+TWT	Trust Wallet Token
+KMNO	Kamino
+WIF	dogwifhat
+JASMY	JasmyCoin
+COMP	Compound
+IOTA	IOTA
+USELESS	Useless Coin
+NFT	AINFT
+EIGEN	EigenCloud
+THETA	Theta Network
+TEL	Telcoin
+KAIA	Kaia
+2Z	DoubleZero
+CVX	Convex Finance
+TRAC	OriginTrail
+AXS	Axie Infinity
+ZAMA	Zama
+AKT	Akash Network
+MINA	Mina
+XCN	Onyxcoin
+NEO	Neo
+EDGE	edgeX
+MET	Meteora
+MANA	Decentraland
+FARTCOIN	Fartcoin
+GRASS	GRASS
+B	BUILDon
+MX	MX TOKEN
+CHZ	Chiliz
+CASHCAT	Cash Cat
+XEC	eCash
+A	Vaulta
+SENT	Sentient
+VSN	Vision
+DEXE	DeXe
+SFP	SafePal
+APE	ApeCoin
+GOMINING	Gomining
+AIOZ	AIOZ Network
+1INCH	1inch
+EGLD	MultiversX
+H	Humanity
+AWE	AWE
+ZEN	Horizen
+BAT	Basic Attention Token
+MARSCOIN	MarsCoin
+DEEP	DeepBook Protocol
+ZK	zkSync
+SAND	The Sandbox
+GLM	Golem
+GEOD	GEODNET
+SUPER	SuperVerse
+DYDX	dYdX
+FLUID	Fluid
+ATH	Aethir
+PLUME	Plume
+PROM	Prom
+GALA	Gala
+S	Sonic
+FORM	Four
+PEAQ	peaq
+GENIUS	Genius Terminal
+QTUM	Qtum
+RSR	Reserve Rights
+ZRX	0x Protocol
+MELANIA	Official Melania Meme
+BEAM	Beam
+CHEEMS	Cheems
+CAP	Cap
+ORDI	ORDI
+ORCA	Orca
+KSM	Kusama
+DOG	Dog (Bitcoin)
+STETH	Lido Staked ETH
+WSTETH	Lido wstETH
+ZETRIX	Zetrix
+WBETH	Wrapped Beacon ETH
+USDS	USDS
+WBTC	Wrapped Bitcoin
+WETH	WETH
+RAIN	Rain
+CBBTC	Coinbase Wrapped BTC
+WBT	WhiteBIT Coin
+RYO	RYO Coin
+WEETH	Wrapped eETH
+USDT0	USDT0
+BTW	Bitway
+USDY	Ondo US Dollar Yield
+TCU29	Tempestas Copper
+BFUSD	BFUSD
+STOC	STO CHAIN
+SYRUPUSDC	Syrup USDC
+HTX	HTX
+SDAI	Savings Dai
+SUSDE	Ethena Staked USDe
+JITOSOL	Jito Staked SOL
+BNSOL	Binance Staked SOL
+USDF	Falcon USD
+USDGO	USDGO
+RSETH	Kelp DAO Restaked ETH
+CTM	c8ntinuum
+LBTC	Lombard BTC
+KHYPE	Kinetiq Staked HYPE
+JLP	Jupiter Perps LP
+XRB	OroBit
+AKE	AKEDO
+LSETH	Liquid Staked ETH
+EVA	EverValue Coin
+METH	Mantle Staked Ether
+GHO	GHO
+BDX	Beldex
+PONS	TENDIES (TendiesRH)
+CBETH	Coinbase Wrapped Staked ETH
+USDTB	Ethena Labs (USDTb)
+WPAY	WPAY
+SBTC	sBTC
+UB	Unibase
+JMDT	Jupiter Meta Data Token [ JMDT ]
+OHM	Olympus v2
+GTBTC	GTBTC
+DRV	Derive
+APEPE	Ape and Pepe
+BP	Backpack
+MSOL	Marinade Staked SOL
+BETH	Beacon ETH
+TIBBIR	Ribbita by Virtuals
+NATG	NatGold
+INF	SANCTUM INFINITY
+BR	Bedrock
+CRVUSD	crvUSD
+AUSD	AUSD
+STRX	Staked TRX
+USX	Solstice USX
+STONK	STONK
+CBXRP	Coinbase Wrapped XRP
+TBC	TuringBitChain
+EURCV	EUR CoinVertible
+AI	Artificial Inu
+USAT	USAT
+9BIT	The9bit
+NPC	Non-Playable Coin
+COCO	coco
+COCA	COCA
+BBSOL	Bybit Staked SOL
+GUSD	GUSD
+ULTIMA	Ultima
+STRCX	Strategy PP Variable tokenized stock (xStock)
+ALE	Ailey
+DGAI	DGrid AI
+RLB	Rollbit Coin
+OZO	Ozone Chain
+CASH	Cash
+META	MetaDAO (new)
+CRCLB	Circle Internet Group Tokenized bStocks
+SN64	Chutes
+HUMA	Huma Finance
+SN51	lium
+BSOL	BlazeStake Staked SOL
+SOSO	SoSoValue
+MCAT	Marscat Token
+NIULAI	Niu Lai  (Niu Lai)
+MSTRX	MicroStrategy tokenized stock (xStock)
+FRXUSD	Frax USD
+GF	GoldFinger
+OCEAN	Ocean Protocol
+Q	Quack AI
+TREAD	Tread.fi
+CRCLON	Circle Internet Group Tokenized Stock (Ondo)
+SHX	Stronghold SHx
+ATLA	Atleta Network
+COW	CoW Protocol
+KNTQ	Kinetiq
+WEMIX	WEMIX
+PROS	Pharos
+RED	RedStone
+GAS	Gas
+TAG	Tagger
+ILY	ILITY
+SKR	Seeker
+VELO	Velo
+HNT	Helium
+LPT	Livepeer
+YFI	Yearn
+CHIP	USD.AI
+O	o1.exchange
+ZANO	Zano
+SAFE	Safe
+WAL	Walrus
+SNX	Synthetix
+W	Wormhole
+CFG	Centrifuge
+AVV	Aivive
+SPCXB	SpaceX Tokenized bStocks
+BERA	Berachain
+NMR	Numeraire
+PURR	Purr
+ZETA	ZetaChain
+RIF	Rootstock Infrastructure Framework
+KAITO	KAITO
+GMX	GMX
+FTT	FTX Token
+MSTRB	Strategy Tokenized bStocks
+QUBIC	QUBIC
+BULLA	Bulla
+DGB	DigiByte
+TFUEL	Theta Fuel
+HOT	Holo
+WXT	WEEX Token
+CARDS	Collector Crypt
+BIO	Bio Protocol
+LBT	Law Blocks (AI)
+DATA	Data Network
+BANANAS31	Banana For Scale
+RE	Re
+CRCLX	Circle tokenized stock (xStock)
+SUSHI	SushiSwap
+ADI	ADI
+AGT	Alaya Governance Token
+SUT	SuperTrust
+FUN	FUNToken
+SPK	Spark
+USDSUI	USDsui
+STRCON	Strategy Stretch Preferred Tokenized Stock (Ondo)
+BABYDOGE	Baby Doge Coin
+ZIG	ZIGChain
+CROSS	CROSS
+DIEM	Diem
+KAVA	Kava
+ZIL	Zilliqa
+ROSE	Oasis
+TURBO	Turbo
+NXPC	NEXPACE
+UAI	UnifAI Network
+XPR	XPR Network
+LSK	Lisk
+ARC	AI Rig Complex
+BOME	BOOK OF MEME
+XAUM	Matrixdock Gold
+OMI	ECOMI
+VTHO	VeThor Token
+CATE	Catecoin
+MXSOL	MEXC Staked SOL
+TSLAX	Tesla tokenized stock (xStock)
+LINEA	Linea
+ARK	Ark
+SOMI	Somnia
+ASTR	Astar
+CKB	Nervos Network
+IO	io.net
+SPYX	SP500 tokenized ETF (xStock)
+BABY	Babylon
+JUPUSD	Jupiter USD
+GEKKO	Gekko HQ
+CTC	Creditcoin
+AXL	Axelar
+BLUR	Blur
+BAN	Comedian
+ELF	aelf
+ACH	Alchemy Pay
+PHA	Phala Network
+FIDD	Fidelity Digital Dollar
+T	Threshold
+CORE	cVault.finance
+COAI	ChainOpera AI
+AB	AB
+GPS	GoPlus Security
+XVS	Venus
+CELO	Celo
+MUBARAK	Mubarak
+0G	0G
+BRETT	Brett (Based)
+ENJ	Enjin Coin
+ANSEM	The Black Bull
+SC	Siacoin
+ONT	Ontology
+ARRR	Pirate Chain
+QQQB	Invesco QQQ Trust Tokenized bStocks
+ID	SPACE ID
+ORBIO	Orbio.so
+ANVL	Anvil
+TRB	Tellor
+ALT	AltLayer
+POLYX	Polymesh
+ALLO	Allora
+AMP	Amp
+ZCAT	Anonymous Cat
+BAS	BNB Attestation Service
+RAVE	RaveDAO
+JELLYJELLY	Jelly-My-Jelly
+AGENTFUN	AgentFun.AI
+ARX	Arcium
+NOCK	Nockchain
+BGSOL	Bitget SOL Staking
+PNUT	Peanut the Squirrel
+XVG	Verge
+G	Gravity
+FLOW	Flow
+TOSHI	Toshi
+ESP	Espresso
+US	Talus
+LONGXIA	Long Xia  (Lobster)
+POPCAT	Popcat (SOL)
+HOLO	Holoworld AI
+SSV	ssv.network
+BARD	Lombard
+XYO	XYO
+NOT	Notcoin
+ACU	Acurast
+RON	Ronin
+MUSD	MUSD
+ANKR	Ankr
+NEX	Nexus
+BONER	Boner Coin
+NEET	NotInEmploymentEducationTraining
+AZTEC	Aztec
+MEGA	MegaETH
+VVS	VVS Finance
+AURORA	Aurora
+PEOPLE	ConstitutionDAO
+XNO	Nano
+LION	Loaded Lions
+WIN	WINkLink
+NIL	Nillion
+PROVE	Succinct
+TROLL	TROLL (SOL)
+MOODENG	Moo Deng
+ALEO	Aleo
+ONG	Ontology Gas
+SNEK	Snek
+MASK	Mask Network
+CCD	Concordium
+SPCXX	SpaceX tokenized stock (xStock)
+FB	Fractal Bitcoin
+SPYON	SPDR S&P 500 Tokenized ETF (Ondo)
+ME	Magic Eden
+MOG	MOG Coin
+MEW	cat in a dogs world
+RIVER	River
+NES	Nesa
+MOCA	Moca Network
+QRL	Quantum Resistant Ledger
+CSPR	Casper
+AVNT	Avantis
+RPL	Rocket Pool
+REQ	Request
+FOLKS	Folks Finance
+SN44	Score
+DUSK	Dusk
+ALCH	Alchemist AI
+SRX	StorX Network
+RHEA	RHEA Finance
+NVDAX	NVIDIA tokenized stock (xStock)
+BGBTC	Bitget Wrapped BTC
+EDU	Open Campus
+KTA	Keeta
+APEX	ApeX Protocol
+DOS	DAPPOS
+ORE	Ore
+DIME	Paradex
+OPEN	OpenLedger
+LQ	Liqwid Finance
+MERL	Merlin Chain
+REZ	Renzo
+KUB	KUB Coin
+MOVE	Movement
+IRYS	Irys
+MUB	Micron Technology Tokenized bStocks
+LISTA	Lista DAO
+PCI	Paycoin
+XUSD	StraitsX USD
+ETN	Electroneum
+MUON	Micron Technology Tokenized Stock (Ondo)
+BNKR	BankrCoin
+LCX	LCX
+COTI	COTI
+XIN	Mixin
+TBK	TronBank
+UNP	UNIPOLY
+BAND	Band
+SNT	Status
+GWEI	ETHGas
+SAHARA	Sahara AI
+GOHOME	GOHOME
+WAVES	Waves
+SKYAI	SKYAI
+BFC	Bifrost
+NVDAON	NVIDIA Tokenized Stock (Ondo)
+RVN	Ravencoin
+NEIRO	Neiro
+RAIL	Railgun
+C	Chainbase
+QQQX	Nasdaq tokenized ETF (xStock)
+LAYER	Solayer
+MEME	Memecoin
+POWR	Powerledger
+UMA	UMA
+DBR	DeBridge
+MMT	Momentum
+AT	APRO
+GOOGLX	Alphabet tokenized stock (xStock)
+SYN	Synapse
+RATS	rats (Ordinals)
+LAB	LAB
+GIGGLE	Giggle Fund
+EURI	Eurite
+B3	B3 (Base)
+TORN	Tornado Cash
+SN8	Vanta Network
+LUNA	Terra
+STEEM	Steem
+KGEN	KGeN
+CMETH	Mantle Restaked Ether
+LOCUS	Locus Chain
+MAGMA	Magma Finance
+XPIN	XPIN Network
+WKC	Wiki Cat
+CLOUD	Cloud
+CUSD	Celo Dollar
+ZORA	ZORA
+ASSET	REAL
+PRO	Propy
+NVDAB	NVIDIA Tokenized bStocks
+BNT	Bancor
+CPOOL	Clearpool
+WTAO	Wrapped TAO
+PT	Phemex Token
+APR	Capricorn
+EUL	Euler
+B2	BSquared Network
+SQD	Subsquid
+CORE	Core
+QQQON	Invesco QQQ Tokenized ETF (Ondo)
+MBG	MultiBank Group
+HIVE	Hive
+UP	Unitas
+CATI	Catizen
+HSK	HashKey Platform Token
+NOS	Nosana
+MANTA	Manta Network
+AIC	AI Companions
+ACX	Across Protocol
+IOTX	IoTeX
+PLAY	PlaysOut
+FLOCK	Flock.io
+ONE	Harmony
+CDCETH	Crypto.com Staked ETH
+VANA	Vana
+IOST	IOST
+SMART	SMART
+PUNDIX	Pundi X (New)
+USTC	TerraClassicUSD
+HIMSON	Hims & Hers Health Tokenized Stock (Ondo)
+XAN	Anoma
+HAJIMI	Ha Ji Mi
+ORBS	Orbs
+SWFTC	SwftCoin
+VELO	Velodrome Finance
+AIOT	OKZOO
+SWARM	SwarmBase
+SPACE	Spacecoin
+ZEREBRO	Zerebro
+RLC	iExec RLC
+BEAT	Audiera
+MVL	MVL
+HYPER	Hyperlane
+ABEY	ABEY
+XT	XT.COM
+MTL	Metal DAO
+CVC	Civic
+ETHW	EthereumPoW
+DEBIT	DEBIT
+FLUX	Flux
+ABT	Arcblock
+BORA	BORA
+BDCA	BitDCA
+ARDR	Ardor
+EDGE	Definitive
+XP	Xphere
+ARKM	Arkham
+UPC	UPCX
+BLAST	Blast
+AO	AO
+MANTRA	MANTRA
+SIGN	Sign
+SNDKB	SanDisk Tokenized bStocks
+OPG	OpenGradient
+MSTRON	MicroStrategy Tokenized Stock (Ondo)
+KNC	Kyber Network Crystal v2
+FRAX	Frax (prev. FXS)
+SKL	SKALE
+ILV	Illuvium
+WAXP	WAX
+OSMO	Osmosis
+ZEST	Zest Protocol
+BNCB	CEA Industries Tokenized bStocks
+MYX	MYX Finance
+DEP	DEAPcoin
+CARV	CARV
+FLIP	Chainflip
+ZBT	ZEROBASE
+BILL	Billions Network
+CTSI	Cartesi
+FOGO	Fogo
+ANTFUN	AntFun
+ERG	Ergo
+KII	Kiichain
+LAPTOP	Hunter Biden's Laptop
+EV	Everything
+CETUS	Cetus Protocol
+METIS	Metis
+USUAL	Usual
+REKT	Rekt
+UQC	Uquid Coin
+RH	RedHorse
+GMT	GMT
+TRUTH	Swarm Network
+AI	Gensyn
+COINDEPO	COINDEPO
+TGBP	Tokenised GBP
+SATS	SATS (Ordinals)
+DEGEN	Degen
+GOOGLB	Alphabet Tokenized bStocks
+AUCTION	Bounce Token
+EDEN	OpenEden
+MPLX	Metaplex
+USDP	Pax Dollar
+VELVET	Velvet
+BIGTIME	Big Time
+WOO	WOO
+CYS	Cysic
+HOME	Defi App
+ANYONE	ANyONe Protocol
+STRAX	Xertra
+DOGS	DOGS
+BROCCOLI	CZ'S Dog
+VR	Victoria VR
+XNY	Codatta
+IQ	IQ
+CYBER	Cyber
+YGG	Yield Guild Games
+SLVON	iShares Silver Trust Tokenized ETF (Ondo)
+API3	API3
+MLK	MiL.k
+BANK	Lorenzo Protocol
+HT	Huobi Token
+SLP	Smooth Love Potion
+ICNT	Impossible Cloud Network
+LTT	Luxury Travel Token
+AEVO	Aevo
+BSB	Block Street
+XCH	Chia
+KEEP	Keep Network
+CELR	Celer Network
+AUDIO	Audius
+SOLV	Solv Protocol
+SVL	Slash Vision Labs
+NYM	NYM
+POPMTX	Pop Mart International Tokenized Stock (xStock)
+GRVT	Grvt
+AIXBT	aixbt
+MY	MetYa
+AMC	A Meme Coin
+INDEX	The Index
+LQTY	Liquity
+PYBOBO	Capybobo
+LUCIC	Lucidum Coin
+ZKC	Boundless
+PPC	Peercoin
+CHEX	Chintai
+FOLD	The Interfold
+TAKE	OVERTAKE
+CHUMP	Chump Coin
+TSLAB	Tesla Tokenized bStocks
+INIT	Initia
+SIREN	siren
+XDP	Doppler
+ZYLO	Zylo Ecosystem
+BREV	Brevis
+BICO	Biconomy
+QANX	QANplatform
+BLESS	Bless
+CHR	Chromia
+DUAL	Dual
+4	4
+GGBR	Goldfish Gold
+DKA	dKargo
+SONIC	Sonic SVM
+CBK	Cobak Token
+CNPY	Canopy
+PIPEDOG	Pipedog
+CGPT	ChainGPT
+FIDA	Bonfida
+CKBTC	Chain-key Bitcoin
+QI	BENQI
+CTK	Shentu
+TNSR	Tensor
+TUT	Tutorial
+ORBR	Orbler
+DRB	DebtReliefBot
+FIRO	Firo
+POKT	Pocket Network
+PRL	Perle
+FARTBOY	Fartboy
+GIGA	Gigachad
+SN75	Hippius
+XYM	Symbol
+FAI	Freysa
+DRAMB	Roundhill Memory ETF Tokenized bStocks
+QKC	QuarkChain
+GOOGLON	Alphabet Class A Tokenized Stock (Ondo)
+MED	MediBloc
+PIXEL	Pixels
+DAG	Constellation
+ROBO	Fabric Protocol
+WMTX	World Mobile Token
+MOVR	Moonriver
+ENSO	Enso
+GAME	GameBuild
+ACE	Fusionist
+XAI	Xai
+WCT	WalletConnect Token
+TAIKO	Taiko
+INTCB	Intel Tokenized bStocks
+METAL	Metal Blockchain
+TA	Trusta.AI
+DIA	DIA
+POOL	PoolTogether
+JCT	Janction
+NCT	PolySwarm
+INTCON	Intel Tokenized Stock (Ondo)
+STG	Stargate Finance
+AGLD	Adventure Gold
+PIPPIN	pippin
+SPELL	Spell Token
+FUL	Fulcrom Finance
+CHEEL	Cheelee
+MIRA	Mira
+GOAT	Goatseus Maximus
+SAPIEN	Sapien
+POWER	Power Protocol
+CGO	Comtech Gold
+ANIME	Animecoin
+BIRB	Moonbirds
+WOJAK	wojak
+QFI	Quantix Finance
+AVA	AVA (Travala)
+DODO	DODO
+MUX	Micron Technology tokenized stock (xStock)
+CTR	Citrea
+SGB	Songbird
+STBL	STBL
+MEY	Mey Network
+SERV	OpenServ
+PMT	Public Masterpiece Token
+EPIC	Epic Chain
+CAT	Simon's Cat
+TLTON	iShares 20+ Year Treasury Bond Tokenized ETF (Ondo)
+NAORIS	NaoX Protocol
+MAGIC	Treasure
+PARTI	Particle Network
+EDEL	Edel
+MAX	MAX Exchange Token
+F	SynFutures
+JOE	JOE
+CP	Cluster Protocol
+YB	YieldBasis
+GSTOCK	Gstock
+RUJI	Rujira
+NEWT	Newton Protocol
+IEFAON	iShares Core MSCI EAFE Tokenized ETF (Ondo)
+ON	Orochi Network
+BITCOIN	HarryPotterObamaSonic10Inu (ERC-20)
+KAT	Katana
+ARPA	ARPA
+TST	Test
+M87	MESSIER
+KAIO	KAIO
+BTR	Bitlayer
+AGI	Delysium
+COINB	Coinbase Tokenized bStocks
+SNDKX	Sandisk Corporation tokenized stock(xstock)
+ORDER	Orderly
+BANANA	Banana Gun
+C98	Coin98
+JPYC	JPY Coin
+ALICE	MyNeighborAlice
+TSLAON	Tesla Tokenized Stock (Ondo)
+MBL	MovieBloc
+IXS	IXS
+GRIFFAIN	GRIFFAIN
+SEDA	SEDA Protocol
+TOKAMAK	Tokamak Network
+BASED	BASED
+LUMIA	Lumia
+HEMI	Hemi
+KERNEL	KernelDAO
+RIO	Realio Network
+VEREM	Verified Emeralds
+UP	Superform
+MRVLON	Marvell Technology Tokenized Stock (Ondo)
+SLX	Solstice
+QIE	QIE Blockchain
+KULA	KULA
+ARGUS	Argus
+PEPECOIN	PepeCoin
+ROG	ROGin AI
+META	Metadium
+PORTAL	Portal
+RAD	Radworks
+GNOT	Gnoland
+POND	Marlin
+ZKP	zkPass
+REI	REI NETWORK
+ZENT	Zentry
+OLAS	Autonolas
+BINK	Big Dog Fink
+BTRST	Braintrust
+SPYB	State Street SPDR S&P 500 ETF Tokenized bStocks
+DOOD	Doodles
+RARE	SuperRare
+BERT	Bertram The Pomeranian
+PUFFER	Puffer
+HOOKR	Hookr.fun
+ELSA	HeyElsa
+APTM	Apertum
+MNDE	Marinade
+UDS	Undeads Games
+BTY	Bityuan
+BMT	Bubblemaps
+OGN	Origin Protocol
+SHROOM	MUSHROOM
+HP	Hippo Protocol
+CULT	Milady Cult Coin
+AGGON	iShares Core US Aggregate Bond Tokenized ETF (Ondo)
+INTCX	Intel tokenized stock (xStock)
+CLANKER	tokenbot
+SN62	Ridges AI
+OG	OG Fan Token
+RSC	ResearchCoin
+LRC	Loopring
+MAV	Maverick Protocol
+SKHYB	SK Hynix Tokenized bStocks
+AIA	DeAgentAI
+ICX	ICON
+CORN	Corn
+DOLO	Dolomite
+BLEND	Fluent
+XBTC	OKX Wrapped BTC
+ZZZ	ZZZ
+FTRB	Faith Tribe
+AAPLX	Apple tokenized stock (xStock)
+CGPT	CRYPGPT
+MOB	MobileCoin
+LA	Lagrange
+PONKE	Ponke
+CHILLGUY	Just a chill guy
+SAUCE	SaucerSwap
+BOX	DeBox
+BASECAT	Basecat
+STORJ	Storj
+RECALL	Recall
+ARIA	AriaAI
+IN	INFINIT
+XSGD	XSGD
+SXT	Space and Time
+DYM	Dymension
+NST	Ninja Squad Token
+AEON	AEON
+VENOM	Venom
+HUNT	Hunt Town
+VOW	Vow
+ROLL	RollX
+NAKA	Nakamoto Games
+FHE	Mind Network
+COQ	Coq Inu
+COINX	Coinbase tokenized stock (xStock)
+DRIFT	Drift
+BB	BounceBit
+BONE	Bone ShibaSwap
+BLUAI	BluWhale
+TRIA	Tria
+RTX	RateX
+SFI	saffron.finance
+BUTTCOIN	Buttcoin
+FUSD	Freedom Dollar
+AVGOB	Broadcom Tokenized bStocks
+GLDX	Gold tokenized ETF (xStock)
+WOTAMALAILIAO	Wo Ta Ma Lai Liao
+FCT2	FirmaChain
+DIAM	DIAM
+SAGA	Saga
+USDSM	Stable Mint United States Dollar
+EVAA	EVAA Protocol
+ANDY	ANDY (ETH)
+FIGHT	FIGHT
+EGL1	EGL1
+INX	Infinex
+AI	Sleepless AI
+CORGIAI	CorgiAI
+WAN	Wanchain
+IAG	IAGON
+GNS	Gains Network
+DOVU	DOVU
+USDB	USDB
+HMM	Thinking Cat
+HEI	Heima
+HOODX	Robinhood tokenized stock (xStock)
+IDOL	MEET48
+AGRS	Agoras: Tau Net
+WET	Humidifi
+PAAL	PAAL AI
+SOFION	SoFi Technologies Tokenized Stock (Ondo)
+TRUST	Intuition
+OGY	ORIGYN
+DEOD	Decentrawood
+TKO	Toko Token
+SHELL	MyShell
+HMSTR	Hamster Kombat
+GODS	Gods Unchained
+PROMPT	Wayfinder
+TLM	Alien Worlds
+ALI	Artificial Liquid Intelligence
+SPCXON	SpaceX Tokenized Stock (Ondo)
+SHARE	ShareX
+HAEDAL	Haedal Protocol
+MIM	MAGIC*INTERNET*MONEY (Bitcoin)
+BARA	Capybara Nation
+METAX	Meta tokenized stock (xStock)
+BOB	BOB (Build on Bitcoin)
+GUN	Gunz
+PAYAI	PayAI Network
+HANA	Hana Network
+ESPORTS	Yooldo
+SCARCITY	SCARCITY
+ACT	Act I : The AI Prophecy
+XION	XION
+GLMR	Moonbeam
+ANT	Autonomi
+BEL	Bella Protocol
+AVAIL	Avail
+FORT	Forta
+THE	Thena
+BOBA	Boba Network
+MANIFEST	Manifesting
+EWT	Energy Web Token
+MBX	MARBLEX
+PUMPCADE	PUMPCADE
+PDDON	PDD Holdings Tokenized Stock (Ondo)
+STONKBROKER	StonkBroker
+OXT	Orchid
+IAUON	iShares Gold Trust Tokenized ETF (Ondo)
+DESO	Decentralized Social
+MOC	Moss Coin
+COLLECT	Collect on Fanable
+ERA	Caldera
+COOKIE	Cookie DAO
+STO	StakeStone
+OPN	Opinion
+NAVX	NAVI Protocol
+AVA	AVA
+PTH	PlasticHero
+ARTX	ULTILAND
+PEP	Pepecoin
+AUKI	Auki
+QUID	Squid
+SODA	SODAX
+WALLET	Ambire Wallet
+WECAN	Wecan Group
+EUROP	EUROP
+KGST	KGST
+BMNRB	BitMine Immersion Technologies Tokenized bStocks
+ATM	Atletico De Madrid Fan Token
+UP	up
+REP	Augur
+ALPH	Alephium
+NUMI	NUMINE
+AMDON	AMD Tokenized Stock (Ondo)
+MGO	Mango Network
+XTM	MinoTari (Tari L1)
+TRADOOR	Tradoor
+WELL	Moonwell
+TAC	TAC Protocol
+DSYNC	Destra Network
+BAL	Balancer
+NATIX	NATIX Network
+ADX	heyAura
+SD	Stader
+LYN	Everlyn AI
+AAPLON	Apple Tokenized Stock (Ondo)
+RESOLV	Resolv
+BLUECHIP	BLUE CHIP
+COINON	Coinbase Tokenized Stock (Ondo)
+PROLOGUE	Prologue
+TOKEN	TokenFi
+4STOCK	4Stock
+GRND	SuperWalk
+XU3O8	xU3O8
+PAID	Paid
+ASM	Assemble AI
+AMZNX	Amazon tokenized stock (xStock)
+AIO	OLAXBT
+DIMO	DIMO
+AHT	AhaToken
+PRIME	Echelon Prime
+WRX	WazirX
+GMRT	The Game Company
+GTC	Gitcoin
+AURA	Aura
+EL	ELYSIA
+MWXT	MWX Token
+QUAI	Quai Network
+ACS	Access Protocol
+SANTOS	Santos FC Fan Token
+LYX	LUKSO
+DESU	Dexsport
+MAPO	MAP Protocol
+SWARMS	Swarms
+HONEY	Hivemapper
+KONET	KONET
+MAVIA	Heroes of Mavia
+VINE	Vine Coin
+MSFTON	Microsoft Tokenized Stock (Ondo)
+LNQ	LinqAI
+TOWNS	Towns
+ZRC	Zircuit
+WOLF	Landwolf 0x67
+BAR	FC Barcelona Fan Token
+ELA	Elastos
+DNT	district0x
+UFD	Unicorn Fart Dust
+LIGHT	Bitlight
+BABAB	Alibaba Tokenized bStocks
+PSG	Paris Saint-Germain Fan Token
+ABEL	Abelian
+NFLXX	Netflix tokenized stock (xStock)
+ASS	Australian Safe Shepherd
+PNG	Pangolin
+KOMA	Koma Inu
+ASR	AS Roma Fan Token
+CLO	Yei Finance
+MSFTX	Microsoft tokenized stock (xStock)
+FROGGIE	Froggie
+BOUNTY	Chainbounty
+PTB	Portal To Bitcoin
+SOIL	Soil
+GHX	GamerCoin
+HOODON	Robinhood Markets Tokenized Stock (Ondo)
+BREW	BREW
+SUPRA	SUPRA
+ALPINE	Alpine F1 Team Fan Token
+BMNRON	BitMine Immersion Technologies Tokenized Stock (Ondo)
+MOO	Memory cow Moo
+AIN	Infinity Ground
+UCN	Uchain
+ACN	AITECH Cloud Network
+XEF	XEFFY
+EWYB	iShares MSCI South Korea ETF Tokenized bStocks
+BOB	Build On BNB
+BROCCOLI	Broccoli
+SOPH	Sophon
+MRVLB	Marvell Technology Tokenized bStocks
+JUGGERNAUT	The Juggernaut
+RBNT	Redbelly Network
+NEON	Neon EVM
+NOM	Nomina
+ALCX	Alchemix
+METAON	Meta Platforms Tokenized Stock (Ondo)
+GAL	Galatasaray Fan Token
+NEXA	Nexa
+TREE	Treehouse
+MRVLX	Marvell tokenized stock (xStock)
+FUEL	Fuel Network
+CES	Whalebit
+OMG	OMG Network
+TLOS	Telos
+LINGO	Lingo
+WXT	Wirex Token
+KRRX	Kyrrex
+MNSRY	Mansory
+FLORK	FLORK
+INV	Inverse Finance
+SNDKON	SanDisk Tokenized Stock (Ondo)
+KNOTS	KNOTS
+RIZE	RIZE
+QUICK	Quickswap[New]
+AMO	AMO Coin
+SPS	Splintershards
+CROB	Crob Coin
+USDQ	Quantoz USDQ
+STAR	Starpower
+GMEB	GameStop Tokenized bStocks
+KEYCAT	Keyboard Cat
+DEXT	DEXTools
+MIN	Minswap
+ESE	Eesee
+OFT	ONFA
+TURTLE	Turtle
+TSMON	Taiwan Semiconductor Manufacturing Tokenized Stock (Ondo)
+REPPO	Reppo
+WILD	Wilder World
+BKN	Brickken
+VATRENI	Croatian Football Federation Token
+POLS	Polkastarter
+SKHYX	SK hynix tokenized stock (xStock)
+FWOG	FWOG (SOL)
+IMO	IMO
+KDX	Kodexa
+DMTR	Dimitra
+AVGOX	Broadcom tokenized stock (xStock)
+DENT	Dent
+PIT	Pitbull
+AMZNON	Amazon Tokenized Stock (Ondo)
+PIVX	PIVX
+CAW	crow with knife
+PURPE	Purple Pepe
+BADGER	Badger DAO
+SPACEM	SPACEM WORLD
+LIT	Litentry
+BGSC	BugsCoin
+NBISB	Nebius Tokenized bStocks
+TON	TON Token
+CTX	Cryptex Finance
+RION	Hyperion
+ESIM	Depinsim
+CMC20	CoinMarketCap 20 Index DTF
+CREPE	CREPE
+WQUIL	Wrapped QUIL
+ISLM	ISLM
+ITA	Italian National Football Team Fan Token
+ETHDYDX	dYdX (ethDYDX)
+BRISE	Bitgert
+KEKIUS	Kekius Maximus
+SBD	Steem Dollars
+REDO	Resistance Dog
+KLV	Klever Coin
+INC	WorldAssets
+PUMP	PumpBTC (Governance token)
+RACA	RACA
+GROVE	Grove
+APU	Apu Apustaja
+PORTO	FC Porto Fan Token
+SPARKLET	Upland (SPARKLET)
+BLUE	Bluefin
+MEV	MEVerse
+USDPT	U.S. Dollar Payment Token
+AAPLB	Apple Tokenized bStocks
+LOFI	LOFI
+MPC	Partisia Blockchain
+IRON	Iron Fish
+MUSEBOOK	musebook
+TDROP	ThetaDrop
+SCRT	Secret
+SPA	Sperax
+XPLA	CONX
+FONE	apeonfone
+ALON	Alon
+BIFI	Beefy
+BOBO	Bobo (bobothebear)
+LMWR	LimeWire
+YEE	Yee Token
+HFT	Hashflow
+TQQQON	ProShares UltraPro QQQ Tokenized Stock (Ondo)
+KRL	Kryll
+GST	Green Satoshi Token (SOL)
+IKA	Ika
+ASTEROID	Asteroid Shiba
+HPP	House Party Protocol
+ALU	Altura
+NKN	NKN
+LADYS	Milady Meme Coin
+OL	Open Loot
+GAIB	GAIB
+MAX	Giggle Mascot
+PHNIX	Phoenix
+DADDY	Daddy Tate
+PROPC	Propchain
+ORAI	Oraichain
+GAME	GAME by Virtuals
+ZKJ	Polyhedra Network
+LAZIO	S.S. Lazio Fan Token
+B3TR	VeBetterDAO
+DAO	DAO Maker
+FARM	Harvest Finance
+LMTS	Limitless
+XRD	Radix
+PIN	PinLink
+ALIGN	Aligned
+CESS	CESS Network
+XEM	NEM
+WEN	Wen
+XGZ	GoldZip
+BLZ	Bluzelle
+BTX	BeatSwap
+JUV	Juventus Fan Token
+DOGINME	doginme
+ANON	Hey Anon
+LLYON	Eli Lilly Tokenized Stock (Ondo)
+NS	Sui Name Service
+NACHO	Nacho the Kat
+KCT	Konnect
+SYMM	SymVerse
+BTR	Bitrue Coin
+HDN	Hydranet
+PALM	PaLM AI
+CITY	Manchester City Fan Token
+MLN	Enzyme
+AVGOON	Broadcom Tokenized Stock (Ondo)
+ASP	Aspecta
+RNBW	Rainbow
+DJI6930	DOWGE
+LAT	PlatON
+MDT	Measurable Data Token
+NBISON	Nebius Group Tokenized Stock (Ondo)
+AERGO	Aergo
+LITEB	Lumentum Tokenized bStocks
+REACT	Reactive Network
+SHDW	Shadow Token
+L3	Layer3
+VARA	Vara Network
+00	00 Token
+AAOIB	Applied Optoelectronics Tokenized bStocks
+SCR	Scroll
+CGN	Cygnus
+CHECK	Checkmate
+SOXLX	Direxion Semiconductor Bull 3X tokenized ETF (xStock)
+HOPR	HOPR
+HOODB	Robinhood Tokenized bStocks
+BAY	Marina Protocol
+AMDX	AMD Tokenised Stock (xStock)
+SOXLB	Semicon Bull 3X ETF Tokenized bStocks
+OCTA	OctaSpace
+ZEPH	Zephyr Protocol
+CATE	CateCoin
+ROAM	Roam
+MAMO	Mamo
+NETX	NetX
+ZOOM	CoinZoom
+SIX	SIX Token
+POLIS	Star Atlas DAO
+ORCLX	Oracle tokenized stock (xStock)
+CHONKETHA	Chonketha the Wet Beaver
+ORCLON	Oracle Tokenized Stock (Ondo)
+READY	Ready Cards
+JIMOTHY	Jimothy The Raccoon
+SWAP	TrustSwap
+WATT	D. Energy
+TSMB	TSMC Tokenized bStocks
+BTSE	BTSE Token
+AMDB	Advanced Micro Devices Tokenized bStocks
+EMBLEM	Emblem Vault
+GUA	SUPERFORTUNE
+MORI	MORI COIN
+SEND	Suilend
+IMPT	IMPT
+FOX	Shapeshift FOX Token
+TX	tx
+SWELL	Swell Network
+DEUS	XMAQUINA
+SDEX	SmarDex
+BTCMT	Minto
+GAT	Gather
+OBSR	Observer
+HTR	Hathor
+MVC	MileVerse
+FAR	FAR Labs
+NIM	Nimiq
+MANYU	Manyu
+BTS	BitShares
+ATLAS	Star Atlas
+CRTS	Cratos
+AUDD	Australian Digital Dollar
+FORTH	Ampleforth Governance Token
+TQQQX	TQQQ tokenized ETF (xStock)
+PEPPER	PEPPER
+SCAM	Scamcoin
+TAI	TARS AI
+KOON	Coca-Cola Tokenized Stock (Ondo)
+BOSON	Boson Protocol
+TSMX	TSMC tokenized stock(xStock)
+ACM	AC Milan Fan Token
+ARMON	Arm Holdings plc Tokenized Stock (Ondo)
+DEXTF	Memento
+PUPS	Pups (Bitcoin)
+ORCLB	Oracle Tokenized bStocks
+XAH	Xahau
+GROK	GROK
+SYND	Syndicate
+FANC	FANC
+ASMLB	ASML Tokenized bStocks
+OOB	OOBIT
+AXTIB	AXT Tokenized bStocks
+METAB	Meta Tokenized bStocks
+LMTON	Lockheed Tokenized Stock (Ondo)
+AFC	Arsenal Fan Token
+PIB	PIBBLE
+ALEPH	Aleph Cloud
+BMNRX	Bitmine Tokenised Stock (xStock)
+PART	Particl
+AVL	Avalon Labs (AVL)
+GME	GmeStop
+A8	Ancient8
+GLDON	SPDR Gold Shares Tokenized Stock (Ondo)
+GRIN	Grin
+KORI	Kori The Pom
+ATS	Alltoscan
+EURQ	Quantoz EURQ
+SUKU	Suku
+BZZ	Swarm
+ABBC	ABBC Coin
+EVR	Evernode
+PROPS	Propbase
+WAI	World3
+RSS3	RSS3
+GHST	Aavegotchi
+DREAMS	Daydreams
+GFI	Goldfinch
+KDA	Kadena
+ASMLON	ASML Holding NV Tokenized Stock (Ondo)
+POP	Zypher Network
+BLD	Agoric
+WOD	World of Dypians
+AMZNB	Amazon Tokenized bStocks
+WEXO	Wexo
+PUSS	PussFi
+ASTSON	AST SpaceMobile Tokenized Stock (Ondo)
+HEART	Humans.ai
+RLS	Rayls
+LAVA	Lava Network
+KET	KET
+DJED	Djed
+NLS	Nolus
+HIGH	Highstreet
+MAP	MAP Network
+ORTA	Orta Chain
+UMXM	Manadia
+SOXSB	Direxion Semiconductor Bear 3X ETF Tokenized bStocks
+WNCG	Nine Chronicles
+QCOMON	Qualcomm Tokenized Stock (Ondo)
+ODOS	Odos
+PUNDIAI	Pundi AI
+AVICI	Avici
+KEFUXIAOHE	Ke Fu Xiao He
+LOT	League of Traders
+PUBLIC	PublicAI
+PANWON	Palo Alto Networks Tokenized Stock (Ondo)
+PLTRON	Palantir Technologies Tokenized Stock (Ondo)
+SUNDOG	SUNDOG
+FUN	Sport.Fun
+MAJOR	Major
+AIN	AI Network
+GMMT	Giant Mammoth
+FEG	Feed Every Gorilla
+FOREST	Forest Protocol
+USDUC	Unstable Coin
+SCOR	SCOR
+ROA	ROA CORE
+MSFTB	Microsoft Tokenized bStocks
+BXN	BlackFort Exchange Network
+QCOMB	Qualcomm Tokenized bStocks
+SNXXB	Tradr 2X Long SNDK ETF Tokenized bStocks
+WRON	Wrapped Ronin
+MNTX	Minutes Network Token
+METFI	MetFi
+LM	LeisureMeta
+LAIKA	Laika
+ZTC	ZenChain
+IRENON	IREN Tokenized Stock (Ondo)
+BIOT	BioPassport Token
+GHUB	GemHUB
+COHRB	Coherent Tokenized bStocks
+REN	Ren
+VFY	zkVerify
+DRG	DragonSwap
+ALEX	ALEX Lab
+PLTRX	Palantir tokenized stock (xStock)
+HNS	Handshake
+MINIMA	Minima
+MLC	My Lovely Planet
+MANEKI	MANEKI
+MATH	MATH
+KYVE	KYVE Network
+HERO	Metahero
+XEL	XELIS
+PIPE	Pipe Network
+DGMA	DaGama World
+PEN	Pendulum
+PACK	HashPack
+MITO	Mitosis
+P2P	Sentinel
+TET	Tectum
+CVXON	Chevron Tokenized Stock (Ondo)
+CSCOON	Cisco Systems Tokenized Stock (Ondo)
+JPMON	JPMorgan Chase Tokenized Stock (Ondo)
+OFC	OneFootball Credits
+GME	GameStop
+LQR	Laqira Protocol
+FDM	Freedom
+PGON	Procter & Gamble Tokenized Stock (Ondo)
+JGGL	JGGL
+XEP	Electra Protocol
+CAP	CAP INFRA
+PAIR	PAIR
+STREAM	Streamflow
+FOXSY	Foxsy AI
+VEX	ProjectVex
+PX	Not Pixel
+BEB	Bloom Energy Tokenized bStocks
+AMATB	Applied Materials Tokenized bStocks
+BRL1	BRL1
+BABAON	Alibaba Tokenized Stock (Ondo)
+COLS	Cointel
+INTER	Inter Milan Fan Token
+VOOI	VOOI
+AIV	AIVille Governance Token
+VAL	Validity
+PRCL	Parcl
+CSC	CasinoCoin
+PBRON	Petrobras Tokenized Stock (Ondo)
+P	PoP Planet
+RKLBB	Rocket Lab Tokenized bStocks
+ADP	Adappter Token
+KARRAT	KARRAT
+MEX	xExchange
+RARI	Rarible
+RWA	Allo
+CA	Coupon Assets
+MCDON	McDonald's Tokenized Stock (Ondo)
+MVRK	Mavryk Network
+TQQQB	ProShares UltraPro QQQ Tokenized bStocks
+IBMON	IBM Tokenized Stock (Ondo)
+SYS	Syscoin
+PLU	Pluton
+DIP	Buy the DIP
+BRN	BRN Metaverse
+BID	CreatorBid
+RAGEGUY	RAGEGUY
+ARX	ARCS
+ARMB	Arm Tokenized bStocks
+D	DAR Open Network
+ARC	ARC
+AUDM	Macropod
+SWEAT	SWEAT
+XAVA	Avalaunch
+DINGO	Dingocoin
+LITEX	Lumentum Holdings Inc. tokenized stock (xStock)
+TRADE	Polytrade
+ZPAY	ZoidPay
+CREO	Creo Engine
+NUM	Numbers Protocol
+EWYX	iShares MSCI South Korea tokenized ETF (xStock)
+AE	Æternity
+FOG	FOGNET
+EVER	Everscale
+MNFT	MongolNFT Coin
+HODL	HODL (hodl2013)
+CEEK	CEEK VR
+OAS	Oasys
+DRAMON	Roundhill Memory ETF Tokenized ETF (Ondo)
+STAT	STAT
+VERSE	Verse World
+SOLX	Solaxy
+MCDX	McDonald's tokenized stock (xStock)
+AZERO	Aleph Zero
+WMTON	Walmart Tokenized Stock (Ondo)
+ZEUS	Zeus Network
+PEIPEI	PeiPei (ETH)
+DMC	DeLorean
+LOULOU	Loulou
+BELLS	Bellscoin
+GEMS	Gems
+TOAD	The Toad Pepe
+NAWS	NAWS.AI
+MYRO	Myro
+TRWA	Tharwa
+IDOS	idOS
+TRUF	TRUF.Network
+PEPON	PepsiCo Tokenized Stock (Ondo)
+NVOON	Novo Nordisk Tokenized Stock (Ondo)
+IMU	Immunefi
+MICRODUCK	microduck
+SHIDO	Shido Network
+EPT	Balance
+INTWB	GraniteShares 2X Long INTC ETF Tokenized bStocks
+REI	REI Network
+NOKB	Nokia Tokenized bStocks
+EPIK	TEH EPIK DUCK
+GMEX	Gamestop tokenized stock (xStock)
+INDEX	Index Cooperative
+SNOWON	Snowflake Tokenized Stock (Ondo)
+OORT	OORT
+RVF	RocketX exchange
+OBT	Orbiter Finance
+HGPT	HyperGPT
+WDCB	Western Digital Tokenized bStocks
+CXT	Covalent X Token
+AUDX	Aussie Dollar Token
+TICS	Qubetics
+BDC	Billy (Bitcoin)
+COOK	mETHProtocol
+NIZA	Niza Global
+FLT	Fluence
+SLC	Silencio
+XTER	Xterio
+MYST	Mysterium
+OVR	OVR
+SBUXON	Starbucks Tokenized Stock (Ondo)
+CBRSB	Cerebras Tokenized bStocks
+67	The Official 67 Coin
+GOATED	GOAT Network
+CLORE	Clore.ai
+PLTRB	Palantir Tokenized bStocks
+DELLX	Dell Technologies Inc. tokenized stock (xStock)
+BLKON	Blackrock, Inc. Tokenized Stock (Ondo)
+TAVA	ALTAVA
+JOTCHUA	Jotchua
+CAMP	Camp Network
+XEN	XEN Crypto
+VEX	Vexanium
+UOS	Ultra
+MAY	Mayflower AI
+TATSU	Taτsu
+TRAC	trac (Ordinals)
+YOM	YOM
+SMCION	Super Micro Computer Tokenized Stock (Ondo)
+PAPARAZZI	Paparazzi Token
+AVT	Aventus
+VTIX	Vanguard tokenized ETF (xStock)
+AL	ArchLoot
+AIDOGE	ArbDoge AI
+SUPE	SUPE
+FUSE	Fuse
+NFLXB	Netflix Tokenized bStocks
+GMEE	GAMEE
+MOBY	Moby
+COS	Contentos
+DJTB	Trump Media & Technology Group Tokenized bStocks
+ASTEROID	Asteroid (Asteroid OG)
+THQ	Theoriq
+SRM	Serum
+SCA	Scallop
+MUUB	Direxion MU Bull 2X ETF Tokenized bStocks
+BEAM	Beam
+KORUB	South Korea Bull 3X ETF Tokenized bStocks
+SMCIB	Super Micro Computer Tokenized bStocks
+MIU	Miu
+BYTE	Byte
+A47	AGENDA 47
+TRA	Trabzonspor Fan Token
+XSWAP	XSwap
+MCN	MCN
+EQIXON	Equinix Tokenized Stock (Ondo)
+MOODENG	MOO DENG
+SIS	Symbiosis
+AIR	AIRian
+REM	Real Estate Metaverse
+CRWVB	CoreWeave Tokenized bStocks
+NODL	Nodle
+MRNAB	Moderna Tokenized (bStocks)
+HOLD	Holdstation
+BITTY	The Bitcoin Mascot
+NMT	NetMind Token
+ELIZAOS	elizaOS
+RKLBON	Rocket Lab Tokenized Stock (Ondo)
+NOWON	ServiceNow Tokenized Stock (Ondo)
+AGPUB	Axe Compute Tokenized bStocks
+EVDC	EVDC Network
+RICE	RICE AI
+GLWB	Corning Tokenized bStocks
+CHEQ	cheqd
+MAS	Massa
+PALU	Palu
+RAI	Rai Reflex Index
+ROBIN	Robin the Frog
+YFII	DFI.Money
+CODEX	CodexField
+VNO	Veno Finance
+ASK	Permission Coin
+BUY	Buying.com
+GEON	General Electric Tokenized Stock (Ondo)
+SHPING	SHPING
+HOOK	Hooked Protocol
+COPXON	Global X Copper Miners Tokenized ETF (Ondo)
+LUCKY	B-Lucky
+BENJI	Basenji
+KDK	Kodiak Finance
+WELF	WELF
+MXNB	MXNB
+DL	Dill
+ABNBON	Airbnb Tokenized Stock (Ondo)
+PERP	Perpetual Protocol
+XPRT	Persistence One
+BOOP	Boop
+MERY	Mistery On Cro
+SOUL	Phantasma
+MOEW	donotfomoew
+LCRO	Liquid CRO
+TRU	TrueFi
+VRA	Verasity
+FM	Moonlander
+JOBY	Free Joby
+LIME	iMe Lab
+CRWVON	CoreWeave Tokenized Stock (Ondo)
+SIGMA	SIGMA
+ABTON	Abbott Tokenized Stock (Ondo)
+MMXN	Moneta Digital
+CERE	Cere Network
+TT	ThunderCore
+WEPE	Wall Street Pepe
+ROCK	Rock Dao
+GAFI	GameFi.org
+TMX	TermMax
+SMHB	VanEck Semiconductor ETF Tokenized bStocks
+AST	AirSwap
+CAGA	Crypto Asset Governance Alliance
+UDAO	UDAO
+AXM	Axiome
+HIPPO	sudeng
+ARG	Argentine Football Association Fan Token
+JAILSTOOL	Stool Prisondente
+XDB	XDB CHAIN
+COHRON	Coherent Tokenized Stock (Ondo)
+PROS	Prosper
+WEGLD	Wrapped EGLD
+JOC	Japan Open Chain
+SKHYON	SK Hynix Tokenized Stock (Ondo)
+PACT	PACT
+IRENB	IREN Limited Tokenized bStocks
+TEMCO	TEMCO
+NAP	Napoli Fan Token
+401JK	401jk
+BABYSHARK	BabyShark
+HOPPY	Hoppy
+VOXEL	Voxies
+SWCH	Swisscheese
+MAON	Mastercard Tokenized Stock (Ondo)
+QCAD	QCAD
+JDON	JD.com Tokenized Stock (Ondo)
+FORU	ForU AI
+CWEB	Coinweb
+SAMO	Samoyedcoin
+TRCL	Treecle
+LOCKIN	LOCK IN
+HAI	Hacken Token
+RWAINC	RWA Inc.
+MAME	Mame Inu
+COSTON	Costco Tokenized Stock (Ondo)
+HASHAI	HashAI
+UNHON	UnitedHealth Tokenized Stock (Ondo)
+BIDUON	Baidu Tokenized Stock (Ondo)
+NOICE	noice
+XPX	Sirius Chain
+VXT	Voxto Amplify
+COLLAT	Collaterize
+XL1	XL1
+METANIA	MetaniaGames v2
+BAON	Boeing Tokenized Stock (Ondo)
+EGG	Nestree
+CRDOB	Credo Technology Tokenized bStocks
+CTP	Ctomorrow Platform
+GME	GameStop
+QORPO	QORPO WORLD
+CLIPX	ClipX
+PYPLON	PayPal Tokenized Stock (Ondo)
+ASTSB	AST SpaceMobile Tokenized bStocks
+CYPHB	Cypherpunk Technologies Tokenized bStocks
+NOKON	Nokia Tokenized Stock (Ondo)
+HOODRAT	Hoodrat
+REEF	Reef
+IR	Infrared
+CELL	Cellframe
+NKEON	Nike Tokenized Stock (Ondo)
+BLKHION	High Income Powered by BlackRock Tokenized Assets (Ondo)
+STRATTON	Stratton Market
+WBAI	WhiteBridge Network
+UNA	Unagi Token
+FLNCB	Fluence Energy Tokenized bStocks
+TURBOS	Turbos Finance
+LLYX	Eli Lilly tokenized stock (xStock)
+OWN	Otherworld
+POR	Portugal National Team Fan Token
+SOXXON	iShares Semiconductor Tokenized ETF (Ondo)
+DELLB	Dell Tokenized bStocks
+MAG7XON	Magnificent 7 and Crypto Portfolio Tokenized Assets (Ondo)
+NUTS	Thetanuts Finance
+CRMON	Salesforce Tokenized Stock (Ondo)
+FROGE	Froge (ETH)
+ACP	Arena Competition Protocol
+KOX	Coca-Cola tokenized stock (xStock)
+HACHIKO	Hachiko Inu
+BTG	Openverse Network
+GEVX	GE Vernova Inc. tokenized stock (xStock)
+10SET	Tenset
+ACNON	Accenture Tokenized Stock (Ondo)
+SHRUB	Shrub
+STAY	STAYNEX
+OGPU	OpenGPU
+VRTON	Vertiv Tokenized Stock (Ondo)
+DISON	Disney Tokenized Stock (Ondo)
+DFDVX	DFDV tokenized stock (xStock)
+TRENCHER	Trencher
+TOP	TOP AI Network
+ICE	Ice Open Network
+USARB	USA Rare Earth Tokenized bStocks
+CUBE	Somnium Space Cubes
+XX	xx network
+AREA	Areum
+AZIT	Azit
+IBMX	International Business Machines tokenized stock (xStock)
+SMHX	VanEck Semiconductor tokenized ETF (xStock)
+GOR	Gorbagana
+GOG	Guild of Guardians
+CMGON	Chipotle Tokenized Stock (Ondo)
+SHR	ShareToken
+BST	Blocksquare Token
+STORM	Storm Trade
+OBOL	Obol
+STIK	Staika
+MASK	catwifmask
+VSYS	v.systems
+CYBERLEEK	CyberLeek
+BODEN	Jeo Boden
+TTN	toyow
+IDEX	IDEX
+CHIRP	Chirp
+UBERON	Uber Tokenized Stock (Ondo)
+MINI	mini
+KOM	Kommunitas
+ZKP	Panther Protocol
+CPH	Cypherium
+TOWER	TOWER
+GLWON	Corning Tokenized Stock (Ondo)
+EWYON	iShares MSCI South Korea Tokenized ETF (Ondo)
+MICHI	michi (SOL)
+4EVER	4EVERLAND
+BEON	Bloom Energy Tokenized Stock (Ondo)
+RENSHENGKXIAN	RENSHENGKXIAN
+CRWDX	CrowdStrike tokenized stock (xStock)
+KUKUMA	Cuo Ban Ma
+RWS	Real World Services
+ATR	Artrade
+DOGE	Department Of Government Efficiency
+CWIF	catwifhat
+NRG	Energi
+ASMLX	ASML tokenized stock (xStock)
+NBT	NanoByte Token
+SAROS	Saros
+AXPON	American Express Tokenized Stock (Ondo)
+WHY	WHY
+ADBEON	Adobe Tokenized Stock (Ondo)
+VINU	Vita Inu
+HEHE	hehe
+EAT	375ai
+NFLXON	Netflix Tokenized Stock (Ondo)
+FUTUON	Futu Holdings Tokenized Stock (Ondo)
+MF	Moonwalk Fitness
+ASTSX	AST SpaceMobile tokenized stock (xStock)
+ELON	Echelon (EchelonMarket)
+MVLLB	GraniteShares 2X Long MRVL ETF Tokenized bStocks
+LAOZI	Lao Zi
+MOCHI	Mochi (New)
+XIUXIAN	Xiu Xian
+ATA	Automata Network
+SMCIX	Super Micro Computer, Inc. tokenized stock (xStock)
+QNTB	Quantinuum Tokenized bStocks
+QAIT	QAIT
+XNA	Neurai
+AMAZINGTEAM	AmazingTeamDAO
+TEA	Tea Protocol
+PYR	Vulcan Forged (PYR)
+STONKS	Stonks
+HIMSB	Hims & Hers Tokenized bStocks
+TAP	Tap Protocol
+RAILS	Rails
+LITEON	Lumentum Holdings Tokenized Stock (Ondo)
+ANOME	Anome
+SHOPON	Shopify Tokenized Stock (Ondo)
+TPTU	Trading and Payment Token
+RDDTON	Reddit Tokenized Stock (Ondo)
+KATA	Katana Inu
+NODE	NodeOps
+R2	R2 Protocol
+DELLON	Dell Technologies Tokenized Stock (Ondo)
+WHITEWHALE	The White Whale
+ASE	Asentum
+HELLO	HELLO Labs
+3ULL	PLAYA3ULL GAMES
+LRDS	BLOCKLORDS
+WARD	Warden
+AIX	Ai Xovia
+LOBO	LOBO*THE*WOLF*PUP (Bitcoin)
+AMCB	AMC Entertainment Holdings Tokenized bStocks
+RMV	Reality Metaverse
+ZSWAP	ZygoSwap
+AMATX	Applied Materials, Inc. tokenized stock (xStock)
+TXNON	Texas Instruments Tokenized Stock (Ondo)
+SAITO	Saito
+IBMB	IBM Tokenized bStocks
+CROID	Cronos ID
+AMATON	Applied Materials Tokenized Stock (Ondo)
+WXTM	Wrapped MinoTari
+CLAWD	clawd.atg.eth
+DORA	Dora Factory
+CSCOX	Cisco tokenized stock (xStock)
+BNBHOLDER	Bi An Holder
+IRENX	IREN tokenized stock (xStock)
+DTEC	Dtec
+DUREV	Povel Durev
+PENGUIN	Nietzschean Penguin
+TCOM	TCOM Global
+ENPHON	Enphase Energy Tokenized Stock (Ondo)
+EFFECT	Effect AI [New]
+BXE	BANX Network
+SHIRO	Shiro Neko
+RTF	Ready to Fight
+MSQ	MSQUARE GLOBAL
+SQQQB	ProShares UltraPro Short QQQ Tokenized (bStocks)
+ALABB	Astera Labs Tokenized bStocks
+SPURS	Tottenham Hotspur Fan Token
+PIGGY	Piggycell
+SHM	Shardeum (New)
+QONE	qONE
+PXP	PointPay
+SWASH	Swash
+QCOMX	Qualcomm tokenized stock (xStock)
+NEXM	Nexum
+RDNT	Radiant Capital
+GSB	Goldman Sachs Tokenized bStocks
+UXLINK	UXLINK
+RDDTB	Reddit Tokenized bStocks
+KILO	KiloEx
+VON	Vameon
+VAI	VAIOT
+OKLOON	Oklo Tokenized Stock (Ondo)
+MCRT	MagicCraft
+CROWN	Crown by Third Time Games
+WDCX	Western Digital tokenized stock (xStock)
+GMRX	Gaimin
+SOXLON	Direxion Daily Semi Bull 3X ETF Tokenized ETF (Ondo)
+RFRM	Reform DAO
+FOUR	FourCoin
+ETNON	Eaton Tokenized Stock (Ondo)
+ZEUS	Pepes Dog
+ECHO	Echo Protocol
+PYPLB	Paypal Tokenized bStocks
+CLONE	Confidential Layer
+IWMX	Russell 2000 Tokenised ETF (xStock)
+GPROB	GoPro Tokenized bStocks
+XFI	CrossFi
+SMT	Swarm Markets
+VRTX	Vertiv Holdings Co tokenized stock (xStock)
+MAN	Matrix AI Network
+PUFF	Puff The Dragon
+QBTSON	D-Wave Quantum Tokenized Stock (Ondo)
+SYL	myDID
+INTUON	Intuit Tokenized Stock (Ondo)
+XOXNO	XOXNO
+BOB	BOB (ETH)
+KITEAI	KiteAI
+BEN	BEN
+VIC	Viction
+BBT	BabyBoomToken
+PORTALS	Portals
+TUP	TenUp
+PSYOPANIME	PsyopAnime
+PING	Ping
+MAT	Matchain
+RC	Rebel Cars
+SWGT	SmartWorld Global
+SURGE	Surge
+GORK	New XAI gork
+QBX	QBX
+RING	RingDAO
+FOXY	Foxy
+MUBARAKAH	Mubarakah
+CRWDB	CrowdStrike Tokenized (bStocks)
+NIKO	NikolAI
+EQTY	EQTY
+ROOBEE	ROOBEE
+BRAINON	AI Leaders Portfolio Tokenized Assets (Ondo)
+CRMX	Salesforce tokenized stock (xStock)
+XNT	Neptune
+SHFT	Shyft Network
+ST	Sentio
+BUCKAZOIDS	Buckazoids
+SKOP	Skulls of Pepe Token
+LEARN	Brainedge
+HTM	Hatom
+ZOON	CryptoZoon
+SPOTON	Spotify Tokenized Stock (Ondo)
+ADBEX	Adobe tokenized stock(xStock)
+CUDIS	CUDIS
+POR	Portuma
+DEFI	DeFi
+GLWX	Corning tokenized stock (xStock)
+BULLISH	Bullish Degen
+GEVON	GE Vernova Tokenized Stock (Ondo)
+ONDSX	Ondas tokenized stock (xStock)
+NIBI	Nibiru
+BAX	BABB
+JNJX	Johnson & Johnson tokenized stock (xStock)
+ASM	AS Monaco Fan Token
+UNHX	UnitedHealth tokenized stock (xStock)
+AAOION	Applied Optoelectronics Tokenized Stock (Ondo)
+BTCBAM	Bitcoin Bam
+MIRAI	Project MIRAI
+CROWN	CROWN Token
+BNBCAT	Binance Cat
+NTX	NuNet
+U	Union
+AIPO	Aipocalypto
+YLD8ON	8 Targeted Income TR Portfolio Tokenized Assets (Ondo)
+AARK	Aark
+SBETON	SharpLink Gaming, Inc Tokenized Stock (Ondo)
+STXB	Seagate Tokenized (bStocks)
+YLD5ON	5 Targeted Income TR Portfolio Tokenized Assets (Ondo)
+PEPE20	Pepe 2.0
+DN	DeepNode
+TEVA	Tevaera
+NESS	Ness LAB
+XMN	xMoney
+XLEX	Energy Select Sector SPDR Fund tokenized stock(xStock)
+VERT	Vertus
+CRMB	Salesforce Tokenized bStocks
+BZR	Bazaars
+NOBODY	Nobody Sausage
+BOBER	BOBER
+HIMSX	Hims & Hers tokenized stock (xStock)
+FIO	FIO Protocol
+BLKGRWON	High Growth Powered by BlackRock Tokenized Assets (Ondo)
+RIOTON	Riot Platforms Tokenized Stock (Ondo)
+TRVL	TRVL (Dtravel)
+MILLI	MILLI
+WDCON	Western Digital Tokenized Stock (Ondo)
+BDG	Beyond Gaming
+CAPS	Ternoa
+OWL	Owlto Finance
+NEURO	NeuroWeb
+PGX	Procter & Gamble tokenized stock (xStock)
+SMURFCAT	Real Smurf Cat
+IF	What IF
+IONQON	IonQ Tokenized Stock (Ondo)
+JETTON	JetTon Games
+LVLY	Lyvely
+HAPPY	Happy Cat
+LVVA	Levva Protocol
+HINT	Hive Intelligence
+VISTA	Ethervista
+AOL	AOL (America Online)
+KASPY	Kaspy
+GAIN	Griffin AI
+URANUS	Uranus
+CEGON	Constellation Energy Tokenized Stock (Ondo)
+BIFI	BiFi
+ISK	ISKRA Token
+CREDI	Credefi
+NAVI	Atlas Navi
+LABUBU	LABUBU SOL
+MENGO	Flamengo Fan Token
+MTD	Minted
+AKITA	Akita (new)
+GMEON	GameStop Tokenized Stock (Ondo)
+ALPHA	Stella
+AEHRON	Aehr Test Systems Tokenized Stock (Ondo)
+ISRGON	Intuitive Surgical Tokenized Stock (Ondo)
+VSTON	Vistra Tokenized Stock (Ondo)
+HMND	Humanode
+LUCE	LUCE
+EFC	Everton Fan Token
+PORT3	Port3 Network
+LEE	Love Earn Enjoy
+KLACX	KLA Corporation tokenized stock (xStock)
+ACA	Acala Token
+1	Ucan fix life in1day
+IZI	Izumi Finance
+SUP	Superfluid
+GAIA	GAIA
+OPTI	Optimus AI
+URAON	Global X Uranium Tokenized ETF (Ondo)
+ML	Mintlayer
+ELON	Official Elon Coin
+MAGA	Make Aliens Great Again
+WRT	WingRiders Governance Token
+WAR	WAR
+AMI	Amnis Finance
+FLYBRAIN	Flybrain
+LRCXON	Lam Research Tokenized Stock (Ondo)
+MOLT	Moltbook
+MAD	MAD
+MPON	MP Materials Tokenized Stock (Ondo)
+LRCXX	Lam Research Corporation tokenized stock (xStock)
+PUNCH	panchi
+GTAI	GT Protocol
+HOOD	Robinhood
+PINE	Pine
+CIENON	Ciena Tokenized Stock (Ondo)
+PUP	PUP
+DOYR	DOYR
+XCX	Xeleb Protocol
+MEZO	Mezo
+BLKDIGON	Diversified Growth Powered by BlackRock Tokenized Assets (Ondo)
+TITN	THORWallet
+NXRA	Nexera
+BNC	Bifrost
+STUPID	StupidCoin
+VC	VinuChain
+WL	WorldLand
+MTV	MultiVAC
+SMX	Snapmuse.io
+DBC	DeepBrain Chain
+PHB	Phoenix
+UNFI	Unifi Protocol DAO
+FEARNOT	FEAR NOT
+REVU	Revuto
+BB	Bitboard
+PEPX	PepsiCo tokenized stock (xStock)
+GOATS	GOATS
+SNSY	Sensay
+PVT	Punkvism
+MEPAD	MemePad
+STRIKE	StrikeBit AI
+NC	Nodepay
+SAUBER	Alfa Romeo Racing ORLEN Fan Token
+SOPH	SophiaVerse
+RDWON	Redwire Tokenized Stock (Ondo)
+ELP	Elympics
+MAXXING	Maxxing
+U2U	U2U Network
+DUKO	DUKO
+BCUT	bitsCrunch
+PRICELESS	Priceless
+DUST	Dust
+PNIC	Phoenic
+BUILD	build
+TERX	Teradyne, Inc. tokenized stock (xStock)
+PLANET	PLANET
+SSG	SOMESING
+ITHACA	Ithaca Protocol
+PITCH	Pitch World Cup
+DONT	DisclaimerCoin
+ALPHA	Alpha
+LETSBONK	Let's BONK
+MDAO	MarsDAO
+GASS	Gasspas
+SUP	Superp
+RJV	Rejuve.AI
+BIBI	Binance bibi
+PLN	Plearn
+COCORO	COCORO
+POLK	Polkamarkets
+TCC	TCryptochicks
+AURA	Aura Network
+NAFT	Nafter
+A2Z	Arena-Z
+ABBVX	AbbVie tokenized stock (xStock)
+DIN	DIN
+BOS	BitcoinOS
+DNA	DNA
+DHRX	Danaher tokenized stock (xStock)
+MOONEY	MoonDAO
+DPR	Deeper Network
+LOL	LOL (lolonsol)
+MYSTERY	Mystery
+MARAON	MARA Holdings Tokenized Stock (Ondo)
+NOTHING	You’ll own nothing & be happy
+AM	Aston Martin Cognizant Fan Token
+DELABS	Delabs Games
+ONDSON	Ondas Holdings Tokenized Stock (Ondo)
+G3	GAM3S.GG
+EQ	Equilibrium Games
+BLUM	Blum
+MBOX	MOBOX
+ZARA	ZARA AI
+ABTX	Abbott tokenized stock (xStock)
+ENF	enfineo
+OBI	Orbofi AI
+WSB	WALL STREET BABY
+ANI	Ani Grok Companion
+FIS	StaFi
+AMC	AI Meta Club
+AMKRON	Amkor Technology Tokenized Stock (Ondo)
+PENG	Peng
+CEL	Celsius
+PISTACIO	Pistacio
+PMX	Philip Morris tokenized stock (xStock)
+RADAR	DappRadar
+MOOV	Dotmoovs
+ACNX	Accenture tokenized stock (xStock)
+XELS	XELS
+SENSO	SENSO
+1R0R	R0AR
+FACT	FACTOR
+MOONPIG	Moonpig
+RBC	Rubic
+ALKIMI	Alkimi
+MOMO	Momo
+YNE	yesnoerror
+PLI	Plugin Decentralized Oracle
+PALCOIN	Palcoin Ventures
+GLQ	Graphlinq Chain
+PELL	Pell Network
+CMCSAX	Comcast tokenized stock (xStock)
+PEPE	PEPE 0x69 ON BASE
+ARW	Arowana
+BUTTCOIN	The Next Bitcoin
+HAHA	Hasaki
+XR	XRADERS
+NEIRO	Neiro
+MAX	Mastercard tokenized stock (xStock)
+ONI	ONINO
+XRPC	Xrp Classic (new)
+APLDON	Applied Digital Tokenized Stock (Ondo)
+MODE	Mode
+DLB	DiemLibre
+TREAT	Shiba Inu TREAT
+TYCOON	Dino Tycoon
+ANETON	Arista Networks Tokenized Stock (Ondo)
+RFUEL	RioDeFi
+KABUTO	Kabuto King
+BCCOIN	BlackCardCoin
+CYBRO	CYBRO
+NFP	NFPrompt
+ELX	Elixir
+LN	Lnfi Network
+BRIC	Redbrick
+LIQ	LIQUIDIUM*TOKEN
+BARSIK	Hasbulla's Cat
+ARTY	Artyfact
+RITE	ritestream
+SKYA	Sekuya Multiverse
+BCOQ	BLACK COQINU
+SPACE	MicroVisionChain
+LIKE	LIKE
+EXPERT	EXPERT_MONEY
+ZKL	zkLink
+SKATE	Skate
+HONX	Honeywell tokenized stock (xStock)
+PZP	PlayZap
+MEE	Medieval Empires
+STT	Statter Network
+VDR	Vodra
+BIOFI	Biometric Financial
+ESX	EstateX
+RWA	Xend Finance
+DHV	DeHive
+RGTION	Rigetti Computing Tokenized Stock (Ondo)
+OTK	Octokn
+INFRA	Bware
+TARA	Taraxa
+STRM	StreamCoin
+NBLU	NuriTopia
+PYM	Playermon
+PIRATE	Pirate Nation
+UNN	UNION Protocol Governance Token
+CLND	Colend
+ISLAND	ISLAND Token
+ISP	Ispolink
+MARS	Mars
+ISRGX	Intuitive Surgical tokenized stock (xStock)
+ZEX	Zeta
+FYN	Affyn
+XCV	XCarnival
+SNPT	SNPIT TOKEN
+MUSE	Muse
+SOVRN	SOVRUN
+ZMX	Zoom Communications tokenized stock (xStock)
+NERO	NERO Chain
+CHO	Choise.ai
+AZUR	Azuro Protocol
+CWAR	Cryowar
+XOMON	Exxon Mobil Tokenized Stock (Ondo)
+CARR	Carnomaly
+PGPT	PrivateAI
+FNON	Fabrinet Tokenized Stock (Ondo)
+STOP	LETSTOP
+MAIGA	Maiga
+SCIHUB	sci-hub
+SIN	Sinverse
+COMMON	COMMON
+CRU	Crust Network
+AME	AME Chain
+PRAI	Privasea AI
+MAK	MetaCene
+OLE	OpenLeverage
+ART	LiveArt
+OKTAX	Okta tokenized stock (xStock)
+GORILLA	Gorilla
+TURT	Turtsat
+LUNRON	Intuitive Machines Tokenized Stock (Ondo)
+TICO	Funtico
+BUBBLE	Bubble
+AXTION	AXT Tokenized Stock (Ondo)
+MRNAON	Moderna Tokenized Stock (Ondo)
+LIGO	LIGO
+HBULL	Hyper Bull
+ARCH	Archway
+GMM	Gamium
+PAL	Palio
+ES	Eclipse
+SNTR	Sentre Protocol
+WAM	WAM
+CORZON	Core Scientific Tokenized Stock (Ondo)
+ITHEUM	Itheum
+DIONE	Dione Protocol
+DUCK	DuckChain
+SAI	Sharpe AI
+USARON	USA Rare Earth Tokenized Stock (Ondo)
+JANET	Janet
+LOA	League of Ancients
+HEU	Heurist AI
+RIZ	Rivalz Network
+TOWN	Alt.town
+GALO	Clube Atletico Mineiro Fan Token
+HOBBES	Ansem's Cat
+NOMOX	Nomoex
+NEKO	Neonneko
+DNX	Dynex
+WNDR	Wonderman Nation
+D2T	Dash 2 Trade
+3KDS	Three Kingdoms
+SZN	BNB MEME SZN
+RVV	Astra Nova
+SOXSON	Direxion Daily Semi Bear 3X ETF Tokenized ETF (Ondo)
+AVC	AlterVerse
+CBRSON	Cerebras Systems Tokenized Stock (Ondo)
+AZNX	AstraZeneca tokenized stock (xStock)
+FLY	Fly.trade
+FRTS	Fruits
+MAJO	Majo
+SGR	Schrodinger
+SCCP	S.C. Corinthians Fan Token
+CRDOON	Credo Technology Group Holding Tokenized Stock (Ondo)
+LL	LightLink
+KZEN	Kaizen Finance
+BXX	Blackstone tokenized stock (xStock)
+ROKX	Rockwell Automation tokenized stock (xStock)
+ADAPAD	ADAPad
+LOBSTAR	Lobstar
+EMC	Edge Matrix Chain
+LF	LF
+BRKL	Brokoli Network
+NUX	Peanut
+CAIWUZIYOU	Cai Wu Zi You
+NFE	Edu3Labs
+HDX	Home Depot tokenized stock (xStock)
+ALA	Alanyaspor Fan Token
+FREE	FREEdom Coin
+GAMES	OrdzGames
+IMT	Immortal Token
+HIBS	Hiblocks
+WSDM	Wisdomise AI
+XZK	Expand
+DEGO	Dego Finance
+BNBXBT	BNBXBT
+STXON	Seagate Tokenized Stock (Ondo)
+ARTFI	ARTFI
+IRIS	IRISnet
+ROUTE	Router Protocol (New)
+QTC	Qitcoin
+HVLO	Hivello
+GXE	Xeno Governance
+METO	Metafluence
+FIR	Fireverse
+NOOT	NOOT (Ordinals)
+EGO	EGO
+BXC	BonusCloud
+UNGON	US Natural Gas Fund Tokenized Stock (Ondo)
+CWS	Seascape Crowns
+LONG	Belong
+CARAT	Alaska Gold Rush
+CME	Commodity Market Exchange
+LUFC	Leeds United Fan Token
+LYP	Lympid
+WELL	WELL3
+AART	ALL.ART protocol
+BPT	Best Patent
+SQR	Magic Square
+CPFC	Crystal Palace Fan Token
+BAC	Basis Cash
+TALENT	Talent Protocol
+WNT	Wicrypt
+ASH	AshSwap
+XTAG	xHashtag AI
+HORD	Hord
+GBCK	GoldBrick
+XSEED	MXS Games DAO
+DEEPSEEK	Global DePIN Chain
+B3X	Bnext Token
+AOG	AgeOfGods
+MGT	Moongate
+HOD	HoDooi.com
+KLINK	Klink Finance
+NYAN	Nyan Heroes
+FOREX	handleFOREX
+NCN	NeurochainAI
+DOME	HumainWeb3
+AIAV	AI Avatar
+HGET	Hedget
+SPO	Spores Network
+ORION	Orion Money
+GZONE	GameZone
+NETT	Netswap
+SNFT	Spain National
+SCM	ScamFari token
+ATWO	Arena Two
+DYOR	Do Your Own Research
+VPR	VaporFund
+RZTO	RZTO
+EYWA	EYWA
+CAD	Caduceus Protocol (new)
+BDXN	BONDEX
+TUNE	Bitune
+PACE	3space Art
+MTRG	Meter Governance
+ACHRON	Archer Aviation Tokenized Stock (Ondo)
+FCXON	Freeport-McMoRan Tokenized Stock (Ondo)
+TAUR	Marnotaur
+SVN	StakeVault.Network
+LOGX	LogX Network
+TRIO	TRIO (OrdinalsBot)
+BFT	Brazil National Football Team Fan Token
+KEELON	Keel Infrastructure Tokenized Stock (Ondo)
+AIRDROP	AIRDROP2049
+XRPAYNET	XRPayNet
+SCT	SuperCells Token
+STIX	STIX
+COOK	Cook Finance
+ALABON	Astera Labs Tokenized Stock (Ondo)
+VSX	Versus-X
+BACON	Bank of America Tokenized Stock (Ondo)
+COPON	ConocoPhillips Tokenized Stock (Ondo)
+SLRS	Solrise Finance
+MATCH	Matching Game
+CRF	Crafting Finance
+MLXC	Marvellex Classic
+HNB	HNB Protocol
+SHIB20	Shib2.0
+PLUGON	Plug Power Tokenized Stock (Ondo)
+PANDO	Pando
+O4DX	OrangeDX
+FIWA	DeFi Warrior (FIWA)
+VEMP	VEMP
+MA	Mind AI
+SPELLFIRE	Spellfire
+SWAN	Swan Chain
+EMT	EMAIL Token
+RIVNON	Rivian Automotive Tokenized Stock (Ondo)
+SWAY	Sway Protocol
+SQT	SubQuery Network
+WZRD	Wizardia
+ZTX	ZTX
+ZEUM	Colizeum
+AIX9	AthenaX9
+XNL	Novastro
+CATON	Caterpillar Tokenized Stock (Ondo)
+BUSY	Busy DAO
+EGAME	EVERY GAME
+LEGION	LEGION
+VT	VTRADING
+ALPA	Alpaca City
+ZLW	Zelwin
+SOUNON	SoundHound AI Tokenized Stock (Ondo)
+REGNON	Regeneron Pharmaceuticals Tokenized Stock (Ondo)
+RIVNX	Rivian Automotive tokenized stock (xStock)
+KTON	Darwinia Commitment Token
+GATA	Gata
+BMAX	BMAX
+WAG	Waggle Network
+CPNGON	Coupang Tokenized Stock (Ondo)
+TCAPY	TonCapy
+METAN	Metan Evolutions
+UNIT0	UNIT0
+XLAB	Dexlab
+EVO	Devomon
+DXGM	DexGame
+MTR	Meter Stable
+AALON	American Airlines Group Tokenized Stock (Ondo)
+SUPER	PeerMe
+KT	KingdomX
+SINGLE	Single Finance
+MLP	Matrix Layer Protocol
+FISHW	Fishwar
+AMGNON	Amgen Tokenized Stock (Ondo)
+ORT	XREATORS
+LAIR	Lair Finance
+MGKL	MAGIKAL.ai
+PLON	Planet Labs Tokenized Stock (Ondo)
+PIX	Pixie
+GNC	Greenchie
+PLSPAD	PulsePad
+Y8U	Y8U
+YBDBD	Yabba Dabba Doo!
+LUNAM	AdLunam
+TTD	TradeTide
+ING	Infinity Games
+AGON	First Majestic Silver Tokenized Stock (Ondo)
+ADION	Analog Devices Tokenized Stock (Ondo)
+PORT	Port Finance
+BYN	NBX
+PSI	TridentDAO
+RECT	ReflectionAI
+GCOIN	Galaxy Fight Club
+ORO	Operon Origins
+FCELON	FuelCell Energy Tokenized Stock (Ondo)
+MXLON	MaxLinear Tokenized Stock (Ondo)
+YCT	Youclout
+REIGN	Reign of Terror
+DRESS	DRESSdio
+TRALA	TRALA
+INVITE	INVITE Token
+PRARE	POLKARARE
+LOE	Legends of Elysium
+USAD	USAD
+AQA	AQA
+NBOT	Naka Bodhi Token
+1000SATS	1000SATS
+BDT	Bandot Protocol
+PBTC35A	pBTC35A
+AGRO	Agro Global
+VMT	Vemate
+CAW	CAW(A Hunters Dream)
+DELTA	Delta
+OVO	OVO
+SOLVEX	Solvex Network
+MXNA	Dark Machine
+FTM	Fantom (Migrated to Sonic)
+SBR	Saber
+JFI	JackPool.finance
+BIFI	Bitcoin File
+PI	Plian
+CREPE	Crepe Coin
+MILO	Milo Inu
+PMG	PMG Coin
+CNG	Changer
+KAT	Karat
+XLS	ELIS
+FIRE	Fire Protocol
+DXCT	DNAxCAT Token
+MOOO	Hashtagger.com
+MART	Artmeta
+MMPRO	MMPRO Token
+MASS	Massnet
+LBC	LBRY Credits
+PVP	PVPFUN
+GODE	Gode Chain
+NSDX	NASDEX
+ZSC	Zeusshield
+TBTC	tBTC
+GM	GM Wagmi
+MDF	MatrixETF
+HANDY	Handy
+CHAIN	Chain Games
+HBD	Hive Dollar
+XBT	XBIT
+WOJAK	Wojak
+PIG	Pig Finance
+HOLD	HoldCoin
+CHATAI	ChatAI Token
+BABI	Babylons
+OVPP	OpenVPP
+SMARS	SafeMars
+RATING	DPRating
+ZIX	Coinzix
+RBT	Rubix
+NEIRO	Neiro Ethereum
+TRU	Truebit
+LWA	LumiWave
